@@ -18,7 +18,7 @@ warnings.filterwarnings("ignore")
 connection = pymysql.connect(
     host='localhost',
     user='root',
-    password='pratik',
+    password='',
     database='BigMart'
 )
 
